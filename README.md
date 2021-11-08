@@ -2,7 +2,7 @@
 
 ## Name of lab partner
 
-Jiayan Dong, A16593051
+Jiayan Dong (A16593051) 
 
 ## Deployed GitHub Pages URL
 
