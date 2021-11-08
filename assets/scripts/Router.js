@@ -73,7 +73,7 @@ export class Router {
     }
     var hash;
     if (page == 'home') {
-      hash = '';
+      hash = ' ';
     }
     else {
       hash = '#' + page;
